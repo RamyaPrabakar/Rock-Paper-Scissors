@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-## This is a visual JavaScript rock paper scissors game played against the computer.
+## This is a visual JavaScript rock paper scissors game played against the computer.To play the game go to https://ramyaprabakar.github.io/Rock-Paper-Scissors/
 
 <img src="LAYOUT.png" alt="LAYOUT" width=500px height=250px>
 This is the image of the basic layout of the game<br/>
